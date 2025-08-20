@@ -52,13 +52,13 @@ python main.py
 
 ---
 
-📸 Demo
+## 📸 Demo
 
 <img width="1569" height="907" alt="Untitled" src="https://github.com/user-attachments/assets/b2fb9b41-b770-4edc-9907-113cec6a8dff" />
 
 ---
 
-📌 Use Cases
+## 📌 Use Cases
 
 - 🏫 Schools & Universities → Classroom attendance
 
@@ -68,7 +68,7 @@ python main.py
 
 ---
 
-🔒 Privacy & Security
+## 🔒 Privacy & Security
 
 - Face data is stored locally and securely.
 
@@ -76,13 +76,13 @@ python main.py
 
 ---
 
-📄 License
+## 📄 License
 
 - This project is licensed under the MIT License – see the LICENSE
  file for details.
 
  ---
 
-👩‍💻 Author
+## 👩‍💻 Author
 
 Esraa Elfar
