@@ -53,6 +53,7 @@ python main.py
 ---
 
 📸 Demo
+
 <img width="1569" height="907" alt="Untitled" src="https://github.com/user-attachments/assets/b2fb9b41-b770-4edc-9907-113cec6a8dff" />
 
 ---
@@ -69,15 +70,15 @@ python main.py
 
 🔒 Privacy & Security
 
-Face data is stored locally and securely.
+- Face data is stored locally and securely.
 
-Attendance logs can be exported for reporting.
+- Attendance logs can be exported for reporting.
 
 ---
 
 📄 License
 
-This project is licensed under the MIT License – see the LICENSE
+- This project is licensed under the MIT License – see the LICENSE
  file for details.
 
  ---
